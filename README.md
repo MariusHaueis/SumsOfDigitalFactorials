@@ -1,5 +1,5 @@
 # SumsOfDigitalFactorials
-This is my for the Project Euler #254: Sums of Digit Factorials problem.
+This is my solution for the Project Euler #254: Sums of Digit Factorials problem.
 
 
 Define f(n) as the sum of the factorials of the digits of n. For example, f(342) = 3! + 4! + 2! = 32
